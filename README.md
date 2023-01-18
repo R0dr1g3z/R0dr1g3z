@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://wakatime.com/@ad9484b6-e506-4ea6-aa07-eeeb1d8d0a18"><img src="https://wakatime.com/badge/user/ad9484b6-e506-4ea6-aa07-eeeb1d8d0a18.svg" alt="Total time coded since Jan 18 2023" /></a>
 
 <!--
 **R0dr1g3z/R0dr1g3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
