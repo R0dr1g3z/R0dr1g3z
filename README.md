@@ -21,3 +21,7 @@ I'm beginner Java Developer who's still lerning and improvment my skills.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<a href="https://wakatime.com/@R0dr1g3z">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=r0dr1g3z&theme=dark&bg_color=131313&border_color=">
+</a>
