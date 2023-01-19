@@ -4,6 +4,10 @@ I'm beginner Java Developer who's still lerning and improvment my skills.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+<a href="https://wakatime.com/@R0dr1g3z">
+<img align=right src="https://github-readme-stats.vercel.app/api/wakatime?username=r0dr1g3z&theme=dark&bg_color=131313" width=50%>
+</a>
+
 - 📋 Languages: 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -21,6 +25,4 @@ I'm beginner Java Developer who's still lerning and improvment my skills.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<a href="https://wakatime.com/@R0dr1g3z">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=r0dr1g3z&theme=dark&bg_color=131313&border_color=">
-</a>
+
