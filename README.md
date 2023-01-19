@@ -23,5 +23,5 @@ I'm beginner Java Developer who's still lerning and improvment my skills.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <a href="https://wakatime.com/@R0dr1g3z">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=r0dr1g3z&theme=dark&bg_color=131313&border_color=">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=r0dr1g3z&theme=dark&bg_color=131313&border_color=">
 </a>
