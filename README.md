@@ -19,4 +19,4 @@ I'm currently learn how to create mobile app.
 
 - 🎛️ Application and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,spring,idea,androidstudio,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,spring,hibernate,linux)](https://skillicons.dev)
